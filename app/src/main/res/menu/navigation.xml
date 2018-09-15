@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- <item
+        android:id="@+id/navigation_undo"
+        android:icon="@drawable/ic_action_undo"
+        android:title="Undo" /> -->
+
+    <!-- <item
+        android:id="@+id/navigation_restart"
+        android:icon="@drawable/ic_action_restart"
+        android:title="Restart" /> -->
+
+    <item
+        android:id="@+id/navigation_send"
+        android:icon="@drawable/ic_action_send"
+        android:title="Send" />
+
+    <item
+        android:id="@+id/navigation_exit"
+        android:icon="@drawable/ic_action_exit"
+        android:title="Exit" />
+
+</menu>
